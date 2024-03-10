@@ -1,19 +1,19 @@
 console.log("===step 1====");
 
 var bankName;
-console.log("==before initilization==");
+console.log("---before initilization---");
 console.log("bankname value:", bankName);
 var result = typeof bankName;
 console.log("typeof bankname:", result);
 
 
 bankName = "SBI";
-console.log("==after imitilization==");
+console.log("---after imitilization---");
 console.log("bankname value:",bankName);
 var ans = typeof bankName;
 console.log("typeof bankname:",ans);
 
-console.log("===step 2====");
+console.log("======step 2=======");
 
 var marks= '90%'
 console.log("marks=",marks);
@@ -23,7 +23,7 @@ console.log("typeof marks", fine);
 console.log("====step 3====");
 
 var isWorking;
-console.log("==before initilization==");
+console.log("--before initilization---");
 console.log("value is:",isWorking);
 var note = typeof isWorking;
 console.log("typeof is", note);
@@ -34,7 +34,7 @@ console.log("value is:",isWorking);
 var lod = typeof isWorking;
 console.log("typeof is", lod);
 
-console.log("====step 4====");
+console.log("=======step 4=======");
 
 
 var totalCount = "Hundred and seven";
