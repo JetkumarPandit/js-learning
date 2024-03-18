@@ -24,4 +24,4 @@ console.log(`${smooth} in uppercase ${toString}`);
 
 console.log("====trim====");
 var sammy = "   good morning    ";
-console.log(`${sammy} its lenght is ${sammy.length}`);
+console.log(`${sammy} its lenght is ${sammy.leng}`);
